@@ -8,7 +8,7 @@ namespace CodeTest
     {
         private Mock<IClassB> _mockClassB;
         private ClassA _classA;
-
+        
         [SetUp]
         public void Setup()
         {
