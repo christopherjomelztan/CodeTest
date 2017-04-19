@@ -1,0 +1,26 @@
+d:\documents\visual studio 2015\Projects\CodeTest\CodeTest\bin\Debug\CodeTest.exe.config
+d:\documents\visual studio 2015\Projects\CodeTest\CodeTest\bin\Debug\CodeTest.exe
+d:\documents\visual studio 2015\Projects\CodeTest\CodeTest\bin\Debug\CodeTest.pdb
+d:\documents\visual studio 2015\Projects\CodeTest\CodeTest\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+d:\documents\visual studio 2015\Projects\CodeTest\CodeTest\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+d:\documents\visual studio 2015\Projects\CodeTest\CodeTest\bin\Debug\Microsoft.Practices.Unity.dll
+d:\documents\visual studio 2015\Projects\CodeTest\CodeTest\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+d:\documents\visual studio 2015\Projects\CodeTest\CodeTest\bin\Debug\Newtonsoft.Json.dll
+d:\documents\visual studio 2015\Projects\CodeTest\CodeTest\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+d:\documents\visual studio 2015\Projects\CodeTest\CodeTest\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+d:\documents\visual studio 2015\Projects\CodeTest\CodeTest\bin\Debug\Microsoft.Practices.Unity.xml
+d:\documents\visual studio 2015\Projects\CodeTest\CodeTest\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+d:\documents\visual studio 2015\Projects\CodeTest\CodeTest\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+d:\documents\visual studio 2015\Projects\CodeTest\CodeTest\bin\Debug\Newtonsoft.Json.xml
+d:\documents\visual studio 2015\Projects\CodeTest\CodeTest\obj\Debug\CodeTest.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\CodeTest\CodeTest\obj\Debug\CodeTest.exe
+d:\documents\visual studio 2015\Projects\CodeTest\CodeTest\obj\Debug\CodeTest.pdb
+D:\Documents\Visual Studio 2015\Projects\CodeTest\CodeTest\bin\Debug\Castle.Core.dll
+D:\Documents\Visual Studio 2015\Projects\CodeTest\CodeTest\bin\Debug\Moq.dll
+D:\Documents\Visual Studio 2015\Projects\CodeTest\CodeTest\bin\Debug\nunit.framework.dll
+D:\Documents\Visual Studio 2015\Projects\CodeTest\CodeTest\bin\Debug\Castle.Core.xml
+D:\Documents\Visual Studio 2015\Projects\CodeTest\CodeTest\bin\Debug\Moq.xml
+D:\Documents\Visual Studio 2015\Projects\CodeTest\CodeTest\bin\Debug\nunit.framework.xml
+F:\Christopher Jomel Z. Tan Work Files\Code Repositories\CodeTest\CodeTest\bin\Debug\CodeTest.exe.config
+F:\Christopher Jomel Z. Tan Work Files\Code Repositories\CodeTest\CodeTest\obj\Debug\CodeTest.exe
+F:\Christopher Jomel Z. Tan Work Files\Code Repositories\CodeTest\CodeTest\obj\Debug\CodeTest.pdb
